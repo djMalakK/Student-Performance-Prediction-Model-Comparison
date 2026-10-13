@@ -135,11 +135,10 @@ These results are based on a single train-test split and should not be interpret
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/djMalakK/Student-Performance-Prediction-Model-Comparison.git
 cd student-performance-prediction
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your GitHub repository URL.
 
 ### 2. Install Dependencies
 
