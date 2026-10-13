@@ -44,7 +44,7 @@ The target variable is `G3`, which represents the final mathematics grade.
 ## Project Structure
 
 ```text
-student-performance-prediction/
+Student-Performance-Prediction-Model-Comparison/
 ├── data_analysis.ipynb
 ├── model_comparison.ipynb
 ├── student-mat.csv
@@ -136,7 +136,7 @@ These results are based on a single train-test split and should not be interpret
 
 ```bash
 git clone https://github.com/djMalakK/Student-Performance-Prediction-Model-Comparison.git
-cd student-performance-prediction
+cd Student-Performance-Prediction-Model-Comparison
 ```
 
 
